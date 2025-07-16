@@ -25,3 +25,10 @@ dist-ssr
 .env
 .env.twilio
 .env.example
+
+
+# IDE
+
+.cursor
+.windsurf
+.cline
